@@ -7,8 +7,8 @@ wordstwo = {}
 words = {
       'anent':'concerning',
       'citoyen':'citizen',
-      'refugee':'a person fleeing from danger'}
-'''plebeian':'member of the common party',
+      'refugee':'a person fleeing from danger',
+      'plebeian':'member of the common party',
       'epistle':'a letter',
       'enigmtic':'puzzle-like',
       'convent':'a girl school run by nuns',
@@ -39,7 +39,7 @@ words = {
       'urbane':'polite',
       'nil':'none',
       'prejudice':'bias',
-      'league':'3 miles'''
+      'league':'3 miles'}
 for word in words:
     print "What is the definition of %s?" %word
     answer = raw_input().lower()
