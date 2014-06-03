@@ -10,7 +10,7 @@ words = {
       'refugee':'a person fleeing from danger',
       'plebeian':'member of the common party',
       'epistle':'a letter',
-      'enigmtic':'puzzle-like',
+      'enigmatic':'puzzle-like',
       'convent':'a girl school run by nuns',
       'inane':'not smart',
       'coterie':'a small group with a common interest',
