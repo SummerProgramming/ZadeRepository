@@ -30,7 +30,7 @@ words = {
       'alacrity':'speed',
       'abate':'to put an end to',
       'waylay':'to attack',
-      'dillapidated':'fallen to ruin',
+      'dilapidated':'fallen to ruin',
       'sordid':'dirty',
       'quandry':'difficult situation',
       'bourgeois':'middle-class',
