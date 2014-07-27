@@ -20,7 +20,10 @@ words = {
       'alfresco' : 'in the open air',
       'aerate' : 'expose to or mix with air',
       'chastise' : 'inflict punishment on, scold',
-      'ostracize' : 'exclude from society, exile'}
+      'ostracize' : 'exclude from society, exile',
+      'precocious' : 'matured to an abnormal level',
+      'peripatetic' : 'walking',
+      'opulent' : 'wealthy'}
 for word in words:
     print "What is the definition of %s?" %word
     answer = raw_input().lower()
